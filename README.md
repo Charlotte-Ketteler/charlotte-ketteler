@@ -1,5 +1,23 @@
 # Hi there! 👋
 
+I'm Charlotte and here are some facts about me:
+
+-  :baby: born in Cologne
+- 😄 Pronouns: she/ her
+- 🌱 I’m currently learning coding.
+- :racehorse: horse lover
+- ⚡ Fun fact: Dolphins are wales.
+- 📫 How to reach me: 
+
+<!--
+Facts about me:
+- 
+- 2 brothers
+- mum of a two year old daughter
+- horse lover
+
+
+
 I'm Charlotte and I was born in Cologne on 27th August 1991. As my father is an Englishman, myself and my brother grew up bulingual. Though I grew up in Germany one part of me will always be english. I now live in Düsseldorf with my husband an 2 year old daughter. 
 
 I love horses and one of my dreams is to go on vacation in the Rocky Mountains, go trail riding and do some spins on a quarter horse. I spend some time on spotify, scrolling around to find so new songs in different genres. 
@@ -8,9 +26,7 @@ Now my 2 year long parental leave is over I'm really excited to start a career i
 
 [Look at this!](https://unsplash.com/photos/DvjWMZ4viw8)
 
-- 🌱 I’m currently learning how to use GitHub and Markdown
-- ⚡ Fun fact: Dolphins are wales.
-- 📫 How to reach me: 
+
 
 
 
